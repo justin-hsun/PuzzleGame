@@ -1,3 +1,5 @@
+(require "Graphic.rkt")
+
 (define-struct pos (x y))
 
 (define-struct state (puzzle pieces))

@@ -1,2 +1,2 @@
 # PuzzleGame
-Backend function for Puzzle Game
+Backend functions for Puzzle Game
